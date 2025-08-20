@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\e.katis\\OneDrive - Ericon GmbH\\Desktop\\Main\\02_Software\\LifeBalance\\LifeBalance\\LifeBalance.csproj": {}
+    "C:\\Privat\\02 Projekte\\02 LifeBalance\\Main\\03_Software\\LifeBalance\\LifeBalance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\e.katis\\OneDrive - Ericon GmbH\\Desktop\\Main\\02_Software\\LifeBalance\\LifeBalance\\LifeBalance.csproj": {
+    "C:\\Privat\\02 Projekte\\02 LifeBalance\\Main\\03_Software\\LifeBalance\\LifeBalance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\e.katis\\OneDrive - Ericon GmbH\\Desktop\\Main\\02_Software\\LifeBalance\\LifeBalance\\LifeBalance.csproj",
+        "projectUniqueName": "C:\\Privat\\02 Projekte\\02 LifeBalance\\Main\\03_Software\\LifeBalance\\LifeBalance.csproj",
         "projectName": "LifeBalance",
-        "projectPath": "C:\\Users\\e.katis\\OneDrive - Ericon GmbH\\Desktop\\Main\\02_Software\\LifeBalance\\LifeBalance\\LifeBalance.csproj",
+        "projectPath": "C:\\Privat\\02 Projekte\\02 LifeBalance\\Main\\03_Software\\LifeBalance\\LifeBalance.csproj",
         "packagesPath": "C:\\Users\\e.katis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\e.katis\\OneDrive - Ericon GmbH\\Desktop\\Main\\02_Software\\LifeBalance\\LifeBalance\\obj\\",
+        "outputPath": "C:\\Privat\\02 Projekte\\02 LifeBalance\\Main\\03_Software\\LifeBalance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
