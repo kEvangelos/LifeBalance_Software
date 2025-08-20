@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\e.katis\\OneDrive - Ericon GmbH\\Desktop\\Main\\02_Software\\LifeBalance\\",
+  "WorkspaceRootPath": "C:\\Privat\\02 Projekte\\02 LifeBalance\\Main\\03_Software\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7EE8EE24-8096-4A79-8B63-82052DA328EB}|LifeBalance\\LifeBalance.csproj|c:\\users\\e.katis\\onedrive - ericon gmbh\\desktop\\main\\02_software\\lifebalance\\lifebalance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7EE8EE24-8096-4A79-8B63-82052DA328EB}|LifeBalance\\LifeBalance.csproj|c:\\privat\\02 projekte\\02 lifebalance\\main\\03_software\\lifebalance\\portion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE8EE24-8096-4A79-8B63-82052DA328EB}|LifeBalance\\LifeBalance.csproj|solutionrelative:lifebalance\\portion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE8EE24-8096-4A79-8B63-82052DA328EB}|LifeBalance\\LifeBalance.csproj|c:\\privat\\02 projekte\\02 lifebalance\\main\\03_software\\lifebalance\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE8EE24-8096-4A79-8B63-82052DA328EB}|LifeBalance\\LifeBalance.csproj|solutionrelative:lifebalance\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE8EE24-8096-4A79-8B63-82052DA328EB}|LifeBalance\\LifeBalance.csproj|c:\\privat\\02 projekte\\02 lifebalance\\main\\03_software\\lifebalance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7EE8EE24-8096-4A79-8B63-82052DA328EB}|LifeBalance\\LifeBalance.csproj|solutionrelative:lifebalance\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -19,21 +27,41 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Portion.cs",
+              "DocumentMoniker": "C:\\Privat\\02 Projekte\\02 LifeBalance\\Main\\03_Software\\LifeBalance\\Portion.cs",
+              "RelativeDocumentMoniker": "LifeBalance\\Portion.cs",
+              "ToolTip": "C:\\Privat\\02 Projekte\\02 LifeBalance\\Main\\03_Software\\LifeBalance\\Portion.cs*",
+              "RelativeToolTip": "LifeBalance\\Portion.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T21:00:29.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Entwurf]",
-              "DocumentMoniker": "C:\\Users\\e.katis\\OneDrive - Ericon GmbH\\Desktop\\Main\\02_Software\\LifeBalance\\LifeBalance\\Form1.cs",
+              "DocumentMoniker": "C:\\Privat\\02 Projekte\\02 LifeBalance\\Main\\03_Software\\LifeBalance\\Form1.cs",
               "RelativeDocumentMoniker": "LifeBalance\\Form1.cs",
-              "ToolTip": "C:\\Users\\e.katis\\OneDrive - Ericon GmbH\\Desktop\\Main\\02_Software\\LifeBalance\\LifeBalance\\Form1.cs [Entwurf]",
+              "ToolTip": "C:\\Privat\\02 Projekte\\02 LifeBalance\\Main\\03_Software\\LifeBalance\\Form1.cs [Entwurf]",
               "RelativeToolTip": "LifeBalance\\Form1.cs [Entwurf]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-13T20:08:29.727Z",
               "EditorCaption": " [Entwurf]"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 19,
-          "SelectedChildIndex": -1,
-          "Children": [
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Privat\\02 Projekte\\02 LifeBalance\\Main\\03_Software\\LifeBalance\\Food.cs",
+              "RelativeDocumentMoniker": "LifeBalance\\Food.cs",
+              "ToolTip": "C:\\Privat\\02 Projekte\\02 LifeBalance\\Main\\03_Software\\LifeBalance\\Food.cs*",
+              "RelativeToolTip": "LifeBalance\\Food.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwE4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T20:44:05.423Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"

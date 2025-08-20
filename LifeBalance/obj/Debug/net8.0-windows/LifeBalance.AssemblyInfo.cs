@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LifeBalance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dada8737b59028566d9dd94d4b35023e0a72ea3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85762066540573e4f092858a122dc041bf00461d")]
 [assembly: System.Reflection.AssemblyProductAttribute("LifeBalance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LifeBalance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
